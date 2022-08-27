@@ -1,1 +1,1 @@
-My first JaaScript project
+My first JavaScript project
