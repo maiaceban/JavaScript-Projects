@@ -1,2 +1,2 @@
-## My first JavaScript projects: 
+### My first JavaScript projects: 
 1. Rock-Paper-Scissors
